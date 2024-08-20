@@ -11,11 +11,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Negligência medica.",
-                afirmacao: "Nunca ouvi falar."
+                afirmacao: "Apesar do uso de algumas técnicas serem restringidas apenas para casos específicos, ainda são utilizadasdiariamentepor profissionais da saúde."
             },
             {
                 texto:  "Desinformação da população.",
-                afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
+                afirmacao: "Mesmo com o fácil acesso a informação, o assunto é pouco comentado e dado a certa importância."
             }    
            
         ]
