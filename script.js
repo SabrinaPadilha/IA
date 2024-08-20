@@ -6,11 +6,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "O cyberbullying é a violência virtual que ocorre geralmente com as pessoas tímidas e indefesas, ou simplesmente por não caírem na simpatia das mesmas. Como podemos evitá-lo",
+        enunciado: "A violência obstétrica é um tipo de violência contra a mulher, praticada pelos profissionais da saúde, que se caracteriza pelo desrespeito, abusos e maus-tratos durante a gestação e/ou no momento do parto, seja de forma psicológica ou física.Você já ouviu falar sobre ela?",
         alternativas: [
             {
-                texto: "Utilizando palestras para prevenir o cyberbullying nas escolas.",
-                afirmacao: "Você é uma pessoa reflexiva e busca aprendizado e conhecimento."
+                texto: "Sim, já ouvi falar.",
+                afirmacao: "Nunca ouvi falar."
             },
             {
                 texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
