@@ -6,14 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "A violência obstétrica é um tipo de violência contra a mulher, praticada pelos profissionais da saúde, que se caracteriza pelo desrespeito, abusos e maus-tratos durante a gestação e/ou no momento do parto, seja de forma psicológica ou física.Você já ouviu falar sobre ela?",
+        enunciado: "Por que a violência obstétrica está cada vez mais banalizada?
+",
         alternativas: [
             {
-                texto: "Sim, já ouvi falar.",
+                texto: "Negligência medica.",
                 afirmacao: "Nunca ouvi falar."
             },
             {
-                texto:  "Prestando atenção aos sinais de cyberbullying nas escolas.",
+                texto:  "Desinformação da população.",
                 afirmacao: "Você é uma pessoa observadora, pois se preocupa com o bem estar dos seus alunos."
             }    
            
