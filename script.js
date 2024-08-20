@@ -6,8 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Por que a violência obstétrica está cada vez mais banalizada?
-",
+        enunciado: "Por que a violência obstétrica está cada vez mais banalizada?",
         alternativas: [
             {
                 texto: "Negligência medica.",
