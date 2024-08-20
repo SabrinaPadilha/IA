@@ -35,15 +35,15 @@ const perguntas = [
             ]
         },
         {
-            enunciado: "Hoje em dia é cada vez mais importante conhecer o seu corpo, suas qualidades, suas limitações e entender suas emoções. Saber controlá-las é o desafio das pessoas. A sua auto-estima impacta a sua qualidade de vida?",
+            enunciado: "Hoje em dia é cada vez mais importante termos uma saúde pública de qualidade, sem negligência, qual seria a melhor alternativa para resolver ese problema?",
 
             alternativas: [
                 {
-                    texto: "Na maior parte do tempo, com certeza impacta, pois é a partir da autoestima que temos um olhar positivo ou negativo sobre nossas ações diárias. Sempre estou em busca de mais autoconhecimento.",
+                    texto: "Com a supervisão e o monitoramento adequado.",
                     afirmacao: "Você tem consciência que é importante ter uma boa auto-estima e procura se aprofundar mais sobre o assunto, vendo a vida de um jeito positivo."
                 },
                 {
-                    texto:    "Apenas ocasionalmente ou raramente. Às vezes minha autoestima oscila e isso pode afetar negativamente minha qualidade de vida em certas ocasiões.",
+                    texto:    "Ética e empatia da parte dos profissionais.",
                
                     afirmacao: "Você demomostra que precisa se conhecer mais e mostra uma consciência de uma crescente necessidade de cuidar mais da própria percepção e bem-estar emocional."
                 }    
